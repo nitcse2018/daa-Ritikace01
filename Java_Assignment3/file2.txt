@@ -1,0 +1,12 @@
+Hey, My name is Ritika Singh
+This is my bio data
+Kidly go through it 
+I am 19 years old
+I am student of NIT Delhi
+Pursuing BTech from CSE, it's currently my second year
+I love learning and developing things in this subject
+
+First the code will print this data on the console as the file is read
+And then it will add some new data in this file, given in the code 
+It will display messages in case the file is successfully read or written
+Else it will generate an error. 
